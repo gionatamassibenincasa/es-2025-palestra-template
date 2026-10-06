@@ -1,0 +1,18 @@
+@startuml
+title Modello Concettuale - Gestione Palestra (Classi di Analisi)
+
+' INSTRUZIONI:
+' Definisci le classi con i rispettivi attributi e le associazioni tra di esse.
+
+' Esempio di struttura:
+' class NomeEntita {
+'   + nomeAttributo : Tipo
+' }
+
+' Definisci qui le entità...
+
+
+' Definisci qui le associazioni e la cardinalità...
+
+
+@enduml

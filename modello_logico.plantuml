@@ -1,0 +1,21 @@
+@startuml
+title Modello Logico Relazionale - Gestione Palestra (Classi di Progettazione)
+
+' ISTRUZIONI:
+' Traduci lo schema concettuale nel modello logico relazionale.
+' Indica le chiavi primarie (<>) e le chiavi esterne (<>).
+
+' Esempio di struttura:
+' class NomeTabella {
+'   + id_campo : INTEGER <>
+'   + campo_fk : INTEGER <>
+'   + attributo : TEXT
+' }
+
+' Definisci qui le tabelle ristrutturate...
+
+
+' Definisci qui le relazioni tra le tabelle...
+
+
+@enduml
